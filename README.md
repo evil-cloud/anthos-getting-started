@@ -2,7 +2,8 @@
   <img src="./img/anthos-logo.png" alt="Google Anthos Logo" width="150">
 </p>
 
-<h1 align="center">Anthos Service Mesh: Primeros pasos</h1>
+<h1 align="center">Primeros pasos hacia una arquitectura híbrida</h1>
+<h2 align="center">con Anthos Service Mesh</h2>
 
 ### Introducción
 
