@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/48/2/google-anthos-logo-png_seeklogo-482842.png" alt="Google Anthos Logo" width="150">
+  <img src="./img/anthos-logo.png" alt="Google Anthos Logo" width="150">
 </p>
 
 <h1 align="center">Anthos Service Mesh: Primeros pasos</h1>
