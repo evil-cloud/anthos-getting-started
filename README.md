@@ -71,12 +71,13 @@ Para entender mejor cuándo elegir **Anthos Service Mesh (ASM)** o **Istio Open 
 
 <br>
 
-### **Arquitectura Propuesta**
+### **Arquitectura Propuesta:**
 
 <p align="center">
   <img src="./img/anthos-diagrams-getting-started.png" alt="Anthos Context Architecture" width="600">
 </p>
 
+<br>
 
 ---
 
