@@ -69,6 +69,7 @@ Para entender mejor cuándo elegir **Anthos Service Mesh (ASM)** o **Istio Open 
 > - Si tu arquitectura está basada en **Google Cloud**, **Anthos Service Mesh** simplifica la administración, seguridad y observabilidad con una integración nativa.  
 > - Si buscas una solución más **flexible y auto-gestionada**, **Istio Open Source** te permite mayor control y personalización, pero requiere más esfuerzo en su administración.
 
+<br>
 
 ### **Arquitectura Propuesta**
 
