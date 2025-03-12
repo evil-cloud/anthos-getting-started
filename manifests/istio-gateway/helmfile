@@ -1,0 +1,10 @@
+repositories:
+  - name: istio
+    url: https://istio-release.storage.googleapis.com/charts
+
+  - name: istio-gateway
+    namespace: istio-gateway
+    chart: istio/gateway
+    values:
+      - values/values-istio-gateway.yaml
+    createNamespace: true
