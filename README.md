@@ -310,7 +310,7 @@ inject_istio_namespace() {
 ```bash
 
 ## Creacion de namespace para istio-gateway
-kubectl create istio-gateway
+kubectl create namespace istio-gateway
 
 ## Inyeccion de Istio a el namespaces
 ### Utilizando la funcion creada anteriormente
